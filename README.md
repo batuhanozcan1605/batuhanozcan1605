@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Batuhan Özcan. I have bachelor's degree in Mechanical Engineering.
+- 👋 Hi, I’m Batuhan Özcan. I am a Mechanical Engineer and Flutter Developer.
 - 👀 I’m interested in Android Developing and Tabletop Game Design.
 - 🌱 I’m currently coding my apps in Flutter. I'd started it with Kotlin.
 - 💞️ I’m also open for the firms that I can work as Junior Android Developer.
