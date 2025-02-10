@@ -24,7 +24,7 @@ Below you'll find a list of my projects, each detailed with an overview, key tec
 BasevenueWolf is the blockchain and AI-powered alternative to RevenueCat, bringing seamless product management and revenue analytics to Web3 Applications.
 The aim of the project is onboarding Web2 developers to Web3 easily.
 The project is formed in the ETHGlobal AI Agent Hackathon in 9 days as POC.
-My main role was frontend development for this project. I also have developed the basevenuewolf_sdk package to be able to use out project in development and a main screen for the 1-page game for demo purpose. And we have connected the sdk and the demo game succesfully via an API that is developed by my backend teammate. 
+My main role was frontend development for this project. I also have developed the basevenuewolf_sdk package to be able to use our project in development of other projects and a main screen for the 1-page game for demo purpose. Eventually, we have connected the sdk and the demo game succesfully via an API that is developed by my backend teammate. 
 
 **Technologies, Abilities & Packages:**  
 - Web 3 Dart
