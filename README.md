@@ -17,6 +17,10 @@ Welcome to my GitHub! I’m passionate about crafting engaging mobile apps using
 
 ## Projects
 
+### Contents
+
+1. **BasevenueWolf:** Fastest way to bring your game to Web3.
+
 Below you'll find a list of my projects, each detailed with an overview, key technologies, and visual previews. Common attributes of my projects are that they are written in Flutter/Dart and their UI designs are responsive.
 
 ### Project Title 1: BasevenueWolf
