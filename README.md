@@ -20,6 +20,9 @@ Welcome to my GitHub! I’m passionate about crafting engaging mobile apps using
 ### Contents
 
 1. **BasevenueWolf:** Fastest way to bring your game to Web3.
+2. **Kim Bilebilir?:** Real money priced knowledge competition.
+3. **Pursuits:** AI based bite-size knowledge app that gives interesting information about anything.
+4. **Miebu: Mindful Eating Buddy:**
 
 Below you'll find a list of my projects, each detailed with an overview, key technologies, and visual previews. Common attributes of my projects are that they are written in Flutter/Dart and their UI designs are responsive.
 
@@ -38,8 +41,7 @@ My main role was frontend development for this project. I also have developed th
 - Provider
 - Request-response handling to AI API with http
 - SDK development
-- Firebase hosting
-- Flutter/Dart  
+- Firebase hosting  
 
 **Link:**  
 [View Project on GitHub](https://github.com/batuhanozcan1605/basevenue_wolf) and
@@ -47,6 +49,50 @@ My main role was frontend development for this project. I also have developed th
 
 [View project live](https://basevenuewolf.web.app/) (You need metamask extension in your browser to continue)
 
+### Project Title 2: Kim Bilebilir?
+**Explanation:**  
+Kim Bilebilir? is a hint based knowledge competition that gives real money price. It was a freelance job for me and I have succesfully delivered. The target region is Turkiye.
+
+ <img src="images/kimbilebilir_ss_game_screen.png" alt="Screenshot 1" width="200">
+
+**Technologies, Abilities & Packages:**  
+- MVVM, Clean Architecture, Provider
+- Revenuecat integration
+- Admob integration
+- Publishing in App Store and Play Store
+- Firebase Cloud Messaging for both platforms
+- Firestore db
+- Firebase remote configurations
+- Firebase realtime db for server timestamp
+- Admin Panel creation and Firebase hosting 
+
+**Link:**  
+Source code is in private for some security reasons.
+[View Project in Play Store](https://play.google.com/store/apps/details?id=com.hilmican55.kimbilebilir) 
+It is currently in review for App Store. 
+
+### Project Title 3: Pursuits
+**Explanation:**  
+Pursuits is an app that users can get personalized bite-size knowledge according to their interests. It is AI based so like its competitors Pursuits do not have static data and categories. Thus, user may type any topic they want to get inform.
+
+<div style="display: flex; gap: 25px;">
+  <img src="images/pursuits_ss_1.jpeg" alt="Screenshot 1" width="200">
+  <img src="images/pursuits_ss_2.jpeg" alt="Screenshot 2" width="200">
+  <img src="images/pursuits_ss_3.jpeg" alt="Screenshot 3" width="200">
+  <img src="images/pursuits_ss_4.jpeg" alt="Screenshot 3" width="200">
+</div>
+
+**Technologies, Abilities & Packages:**  
+- MVVM, Clean Architecture, Provider
+- Firebase Cloud Functions written in .js
+- AI API Usage
+- Publishing in App Store and Play Store (it's unpublished in both platforms)
+- Firebase Cloud Messaging for both platforms
+- Firestore db
+- SQLite
+- Revenuecat integration
+- Admob integration
+- Animated UIs
 
 ---
 
