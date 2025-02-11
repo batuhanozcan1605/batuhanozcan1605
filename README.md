@@ -23,7 +23,8 @@ Welcome to my GitHub! I’m passionate about crafting engaging mobile apps using
 2. **Kim Bilebilir?:** Real money priced knowledge competition.
 3. **Pursuits:** AI based bite-size knowledge app that gives interesting information about anything.
 4. **Miebu: Mindful Eating Buddy:** Supportive yet realistic day tracking for eating disorder. (AI supported)
-
+5. **Strong Week - Week Planner:** A simplistic week planner.
+ 
 Below you'll find a list of my projects, each detailed with an overview, key technologies, and visual previews. Common attributes of my projects are that they are written in Flutter/Dart and their UI designs are responsive.
 
 ### Project Title 1: BasevenueWolf
@@ -123,10 +124,26 @@ Supportive yet realistic day tracking app for eating disorder. The main feature 
 - AI API Usage
 - Firebase Cloud Messaging for both platforms
 - Firestore db
+
+### Project Title 5: Strong Week - Week Planner
+
+**Explanation:** 
+A simplistic and useful weekplanner. Syncfusion's calendar package is used and I have pushed the limits of a pre-made package. (1 error of the package is found and notified to syncfusion company)
+
+<div style="display: flex; gap: 25px;">
+  <img src="images/strongweek_ss_1.png" alt="Screenshot 1" width="200">
+  <img src="images/strongweek_ss_2.png" alt="Screenshot 2" width="200">
+  <img src="images/strongweek_ss_3.png" alt="Screenshot 3" width="200">
+  <img src="images/strongweek_ss_4.png" alt="Screenshot 3" width="200">
+</div>
+
+**Technologies, Abilities & Packages:**  
+- MVVM, Clean Architecture, Provider
+- State Notifiers
+- Localization to many languages
+- RevenueCat
+- syncfusion_flutter_calendar package
 - SQLite
-
-
-
 
 ## Let's Connect
 
