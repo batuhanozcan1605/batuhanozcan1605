@@ -22,7 +22,7 @@ Welcome to my GitHub! I’m passionate about crafting engaging mobile apps using
 1. **BasevenueWolf:** Fastest way to bring your game to Web3.
 2. **Kim Bilebilir?:** Real money priced knowledge competition.
 3. **Pursuits:** AI based bite-size knowledge app that gives interesting information about anything.
-4. **Miebu: Mindful Eating Buddy:**
+4. **Miebu: Mindful Eating Buddy:** Supportive yet realistic day tracking for eating disorder. (AI supported)
 
 Below you'll find a list of my projects, each detailed with an overview, key technologies, and visual previews. Common attributes of my projects are that they are written in Flutter/Dart and their UI designs are responsive.
 
@@ -53,7 +53,11 @@ My main role was frontend development for this project. I also have developed th
 **Explanation:**  
 Kim Bilebilir? is a hint based knowledge competition that gives real money price. It was a freelance job for me and I have succesfully delivered. The target region is Turkiye.
 
- <img src="images/kimbilebilir_ss_game_screen.png" alt="Screenshot 1" width="200">
+ <div style="display: flex; gap: 25px;">
+  <img src="images/kimbilebilir_ss_game_screen.png" alt="Screenshot 3" width="200">
+  <img src="images/kimbilebilir_ss2.png" alt="Screenshot 1" width="200">
+</div>
+
 
 **Technologies, Abilities & Packages:**  
 - MVVM, Clean Architecture, Provider
@@ -68,8 +72,8 @@ Kim Bilebilir? is a hint based knowledge competition that gives real money price
 
 **Link:**  
 Source code is in private for some security reasons.
-[View Project in Play Store](https://play.google.com/store/apps/details?id=com.hilmican55.kimbilebilir) 
-[View Project in App Store Beta Test in Test Flight](https://testflight.apple.com/join/aWkXThxy) 
+[View Project in Play Store](https://play.google.com/store/apps/details?id=com.hilmican55.kimbilebilir) <br>
+[View Project in App Store Beta Test in Test Flight](https://testflight.apple.com/join/aWkXThxy) <br>
 It is currently in review for App Store. 
 
 ### Project Title 3: Pursuits
@@ -101,6 +105,26 @@ The app is published in Google Play Store once but I have retract the app. I wil
 [The Google Gemini Compeition Video](https://www.youtube.com/watch?v=Ha5qZPvW2OA) 
 
 ---
+
+### Project Title 4: Miebu: Mindful Eating Buddy
+
+**Explanation:** 
+Supportive yet realistic day tracking app for eating disorder. The main feature and idea is blind calorie tracking. Because a person who have eating disorder should not do that but still they shoul keep track of what they have eaten. AI assistant in the app allows you to enter the meals easily and it calculates the calories in background. You can see which zone you are currently in with color indicators. (Green-Yellow-Red)
+
+<div style="display: flex; gap: 25px;">
+  <img src="images/miebu_ss_1.jpeg" alt="Screenshot 1" width="200">
+  <img src="images/miebu_ss_2.jpeg" alt="Screenshot 2" width="200">
+  <img src="images/miebu_ss_3.jpeg" alt="Screenshot 3" width="200">
+  <img src="images/miebu_ss_4.jpeg" alt="Screenshot 3" width="200">
+</div>
+
+**Technologies, Abilities & Packages:**  
+- MVVM, Clean Architecture, Provider
+- AI API Usage
+- Firebase Cloud Messaging for both platforms
+- Firestore db
+- SQLite
+
 
 
 
