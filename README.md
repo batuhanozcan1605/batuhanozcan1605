@@ -9,8 +9,8 @@ Welcome to my GitHub! I’m passionate about crafting engaging mobile apps using
 
 ## About Me
 
-- **Current Focus:** Developing apps with Flutter (started with Kotlin)
-- **Open to:** Opportunities and collaborations in Flutter development
+- **Current Focus:** Developing apps with Flutter
+- **Open to:** Full time job,  Opportunities and Collaborations in Flutter development
 - **Contact:** [batuhanozcan1605@gmail.com](mailto:batuhanozcan1605@gmail.com)
 
 ---
