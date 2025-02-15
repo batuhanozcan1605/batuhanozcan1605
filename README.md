@@ -103,6 +103,7 @@ Pursuits is an app that users can get personalized bite-size knowledge according
 **Link:**  
 Source code is in private for some security reasons. I am going to disable the OpenAI API keys first.
 The app is published in Google Play Store once but I have retract the app. I will publish in 2 platforms soon.<br>
+[View Project in Google Play Store](https://play.google.com/store/apps/details?id=com.batuhanozcan1605.daily_trivia)  
 [View Project in App Store Beta Test in Test Flight](https://testflight.apple.com/join/agfJUekn)  
 [The Google Gemini Compeition Video](https://www.youtube.com/watch?v=Ha5qZPvW2OA) 
 
