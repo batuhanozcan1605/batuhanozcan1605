@@ -1,7 +1,7 @@
 
 # Batuhan Özcan
 
-**Flutter Developer & Game Designer**
+**Flutter Developer**
 
 Welcome to my GitHub! I’m passionate about crafting engaging mobile apps using Flutter and exploring innovative app and game design. Feel free to explore my projects below.
 
